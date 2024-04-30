@@ -1,6 +1,6 @@
 # Lego Mindstorm Project
 
- Man sollte als erstes Scratch Link insatallieren. Damit kannst du nämlich denn Lego Kontroller mit deinem Scratch Projekt Verbinden.  
+ Man sollte als erstes Scratch Link insatallieren. Damit kann man nämlich denn Lego Kontroller mit dem Scratch Projekt Verbinden.  
  Als hilfe ist die ([Anleitung](https://scratch.mit.edu/ev3)) von Scratch sehr gut.
 
  <!-- 30.04.2024 Heute habe ich Angefangen meinen Roboter zu Bauen um Ihn dann Tricks mit Scratch beizubringen.
