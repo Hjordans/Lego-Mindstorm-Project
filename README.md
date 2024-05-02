@@ -12,5 +12,10 @@
    Ich nenne die ab jetzt A, C, D, 1 und 4 im Folgenden beschreibe ich was die einzelnen Anschlüsse machen und danach, werde ich beschreiben was ich mit Scratch alles programmiere so das man alles nachvolziehen kann.
    
  <!-- 30.04.2024 Heute habe ich Angefangen meinen Roboter zu Bauen um Ihn dann Tricks mit Scratch beizubringen.
- Ich hatte dabei leider einen kleinen Rücksetzer da ich einmal neu Anfangen musste.
+ Ich hatte dabei leider einen kleinen Rücksetzer da ich einmal neu anfangen musste.
  Außerdem lernte ich ein bisschen mehr über GitHub und wie nützlich es ist ich werde mir es noch mal Zuhause angucken.-->
+ 
+ <!-- 02.04.2024 Heute habe ich den Robo Hund zuende gebaut. 
+ Außerdem habe ich mir Heute ein Tutorial zu Git angesehen und  gelernt wie es mit GitHub zusammen hängt.
+ Morgen wollte ich anfangen mit dem programmieren des Hundes und vielleicht ein par Fragen von dem Fragebogen zubeantworten.-->
+ 
