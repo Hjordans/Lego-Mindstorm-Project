@@ -2,7 +2,10 @@
  ## Anleitung  
   ### Anfang
    Man sollte als erstes Scratch Link installieren. Damit kann man den Lego Controller mit dem Scratch Projekt verbinden.  
-   Die [Anleitung](https://scratch.mit.edu/ev3) von Scratch ist sehr hilfreich.  
+   Die [Anleitung](https://scratch.mit.edu/ev3 "Link zur Anleitung") von Scratch ist sehr hilfreich.  
+   So sieht der Controller aus:  
+   ![Controller Bild](https://github.com/Hjordans/Lego-Mindstorm-Project/blob/Bild-Hover/Controller.jpg)  
+   Oben sind die Anschlüsse A, B, C und D und unten 1, 2, 3 und 4.
 
    ### Ersten Schritte
    Der Robo Hund den ich mit dem Lego gebaut habe hat Acht Anschlüsse, mit Fünf ist er mit dem Controller verbunden.  
