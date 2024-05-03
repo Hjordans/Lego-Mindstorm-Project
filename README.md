@@ -28,7 +28,11 @@
  Ich hatte dabei leider einen kleinen Rücksetzer da ich einmal neu anfangen musste.
  Außerdem lernte ich ein bisschen mehr über GitHub und wie nützlich es ist ich werde mir es noch mal Zuhause angucken.-->
  
- <!-- 02.04.2024 Heute habe ich den Robound zuende gebaut. 
+ <!-- 02.04.2024 Heute habe ich den Robohund zuende gebaut. 
  Außerdem habe ich mir Heute ein Tutorial zu Git angesehen und  gelernt wie es mit GitHub zusammen hängt.
  Morgen wollte ich anfangen mit dem programmieren des Hundes und vielleicht ein par Fragen vom Fragebogen zubeantworten.-->
+
+ <!-- 03.04.2024 Ich habe Hauptsächlich die Anleitung hier ein bisschen schöner gemacht und neue Sachen eingefügt. 
+ Außerdem habe ich Heute versucht in Java versucht ein Projekt zu erstellen und festgestellt, dass es schwieriger ist den Anfang zu machen als in Python. 
+ Am Montag will ich alls erstes ein par Fragen stellen und mein Fragebogen etwas ausfüllen.
  
