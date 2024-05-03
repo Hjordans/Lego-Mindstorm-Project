@@ -12,15 +12,15 @@
    Ich nenne die ab jetzt A, C, D, 1 und 4 im Folgenden beschreibe ich was die einzelnen Anschlüsse machen.
    
    + **A:** Anschluss für den Motor des hinteren rechten Beins.
-	+ Bewegung des Beins nach vorne und hinten.
+		+ Bewegung des Beins nach vorne und hinten.
    + **C:** Anschluss für den Motor des Kopfes.
-	+ Bewegt den Kopf nach oben und unten.
+		+ Bewegt den Kopf nach oben und unten.
    + **D:** Anschluss für den Motor des hinteren linken Beins.
-	+ Bewegt das Bein nach vorne und hinten.
+		+ Bewegt das Bein nach vorne und hinten.
    + **1:** Anchluss für den Knopf auf dem Rücken.
-	+ Aktivierung eier promammierbaren Funktion durch Drücken des Knopes.
-   + **4** Anschull des Farbsensors.
-	+ Erkennung von sieben Farben und Helligkeitsmessung.
+		+ Aktivierung eier promammierbaren Funktion durch Drücken des Knopes.
+   + **4:** Anschull des Farbsensors.
+		+ Erkennung von sieben Farben und Helligkeitsmessung.
    
    **Wichtig:** Die Funktionen hängen von den Einstellungen mittels der Scratch Programmierung ab.
    
