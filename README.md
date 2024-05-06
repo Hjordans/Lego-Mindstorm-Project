@@ -1,7 +1,7 @@
 # Lego Mindstorm Project
  ## Anleitung  
   ### Kleine Einleitung mit Anleiung um Scratch einzurichten und die Bauanleitung für den Robohund von Lego
-   Als erstes muss man den Robohund zusammen Bauen, dafür brauchst man die [Bauanleitung](https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt074d025a1a1eccd9/5f8801e41189001a2dc76d4d/ev3-model-core-set-puppy.pdf?locale=de-de "Link zur Bauanleitung") von Lego.  
+   Als erstes muss man den Robohund zusammen Bauen, dafür braucht man die [Bauanleitung](https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt074d025a1a1eccd9/5f8801e41189001a2dc76d4d/ev3-model-core-set-puppy.pdf?locale=de-de "Link zur Bauanleitung") von Lego.  
    Danach sollte man Scratch Link installieren.  
    Damit wird der Lego Controller mit dem Scratch Projekt verbunden.  
    Die [Anleitung](https://scratch.mit.edu/ev3 "Link zur Anleitung") von Scratch ist sehr hilfreich.  
@@ -27,7 +27,7 @@
    **Wichtig:** Die Funktionen hängen von den Einstellungen mittels der Scratch Programmierung ab.
 
    ### Das Scratch Projekt
-   Bei Scratch habe ich den Hund so Programmiert das der Hund den Kopf nach unten und oben bewegen kann  
+   Bei Scratch habe ich den Hund so Programmiert, dass er den Kopf nach unten und oben bewegen kann  
    wenn die Pfeiltasten nach unten und oben gedrückt werden.  
    (Nach unten mit der Pfeiltaste nach unten, nach oben wenn mit der Pfeiltaste nach oben.)  
    
