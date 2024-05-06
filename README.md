@@ -1,7 +1,9 @@
 # Lego Mindstorm Project
  ## Anleitung  
-  ### Kleine Einleitung mit Anleiung um Scratch einzurichten
-   Man sollte als erstes Scratch Link installieren. Damit kann man den Lego Controller mit dem Scratch Projekt verbinden.  
+  ### Kleine Einleitung mit Anleiung um Scratch einzurichten und die Bauanleitung für den Robohund von Lego
+   Als erstes muss man den Robohund zusammen Bauen, dafür brauchst man die [Bauanleitung](https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt074d025a1a1eccd9/5f8801e41189001a2dc76d4d/ev3-model-core-set-puppy.pdf?locale=de-de "Link zur Bauanleitung") von Lego.  
+   Danach sollte man Scratch Link installieren.  
+   Damit wird der Lego Controller mit dem Scratch Projekt verbunden.  
    Die [Anleitung](https://scratch.mit.edu/ev3 "Link zur Anleitung") von Scratch ist sehr hilfreich.  
    So sieht der Controller aus:  
    ![Controller Bild](https://github.com/Hjordans/Lego-Mindstorm-Project/blob/main/Controller.jpg)  
@@ -23,16 +25,19 @@
 		+ Erkennung von sieben Farben und Helligkeitsmessung.
    
    **Wichtig:** Die Funktionen hängen von den Einstellungen mittels der Scratch Programmierung ab.
-   
- <!-- 30.04.2024 Heute habe ich Angefangen meinen Roboter zu Bauen um Ihn dann Tricks mit Scratch beizubringen.
- Ich hatte dabei leider einen kleinen Rücksetzer da ich einmal neu anfangen musste.
- Außerdem lernte ich ein bisschen mehr über GitHub und wie nützlich es ist ich werde mir es noch mal Zuhause angucken.-->
- 
- <!-- 02.04.2024 Heute habe ich den Robohund zuende gebaut. 
- Außerdem habe ich mir Heute ein Tutorial zu Git angesehen und  gelernt wie es mit GitHub zusammen hängt.
- Morgen wollte ich anfangen mit dem programmieren des Hundes und vielleicht ein par Fragen vom Fragebogen zubeantworten.-->
 
- <!-- 03.04.2024 Ich habe Hauptsächlich die Anleitung hier ein bisschen schöner gemacht und neue Sachen eingefügt. 
- Außerdem habe ich Heute versucht in Java versucht ein Projekt zu erstellen und festgestellt, dass es schwieriger ist den Anfang zu machen als in Python. 
- Am Montag will ich alls erstes ein par Fragen stellen und mein Fragebogen etwas ausfüllen.
- 
+   ### Das Scratch Projekt
+   Bei Scratch habe ich den Hund so Programmiert das der Hund den Kopf nach unten und oben bewegen kann  
+   wenn die Pfeiltasten nach unten und oben gedrückt werden.  
+   (Nach unten mit der Pfeiltaste nach unten, nach oben wenn mit der Pfeiltaste nach oben.)  
+   
+   Außerdem wenn er "Gestreichelt wird" (Der Knopf auf dem Rücken gedrückt wird) freut er sich.  
+   Der Kopf wird dann ingesammt vier mal nach unten und oben bewegt.  
+
+   Der Letzte Trick ist das er die Beine Bewegen kann mit der Pfeiltaste nach rechts, nach vorne.  
+   Mit der Pfeiltaste nach links, nach hinten.  
+   Ich habe grenzwerte Programmiert da er sonst Hinfällt und es nicht mehr funktioniert. 
+   Er hat dann nicht mehr genug Kraft um aufzustehen.  
+   
+   **Achtung:** Bitte die Beine nicht Manuell bewegen, weil die Chance besteht das es die Grenzwerte kaputt macht.
+   
