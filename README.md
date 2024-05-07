@@ -1,12 +1,13 @@
 # Lego Mindstorm Project
  ## Anleitung  
-  ### Kleine Einleitung mit Anleiung um Scratch einzurichten und die Bauanleitung für den Robohund von Lego
+  ### Kleine Einleitung mit Anleitung um Scratch einzurichten und die Bauanleitung für den Robohund von Lego
    Als erstes muss man den Robohund zusammen Bauen, dafür braucht man die [Bauanleitung](https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt074d025a1a1eccd9/5f8801e41189001a2dc76d4d/ev3-model-core-set-puppy.pdf?locale=de-de "Link zur Bauanleitung") von Lego.  
    Danach sollte man Scratch Link installieren.  
    Damit wird der Lego Controller mit dem Scratch Projekt verbunden.  
    Die [Anleitung](https://scratch.mit.edu/ev3 "Link zur Anleitung") von Scratch ist sehr hilfreich.  
    So sieht der Controller aus:  
-   ![Controller Bild oben]([https://github.com/Hjordans/Lego-Mindstorm-Project/blob/main/Lego-Controller-oben.png "Bild vom Controller von oben")  
+   ![Controller Bild oben](https://github.com/Hjordans/Lego-Mindstorm-Project/blob/main/Lego-Controller-oben.png "Bild vom Controller von oben") 
+   ![Controller Bild unten](https://github.com/Hjordans/Lego-Mindstorm-Project/blob/main/Lego-Controller-unten.png "Bild vom Controller von unten")  
    Oben sind die Anschlüsse A, B, C und D und unten 1, 2, 3 und 4.
 
    ### Anschlüsse und ihre Funktionen
