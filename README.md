@@ -6,7 +6,7 @@
    Damit wird der Lego Controller mit dem Scratch Projekt verbunden.  
    Die [Anleitung](https://scratch.mit.edu/ev3 "Link zur Anleitung") von Scratch ist sehr hilfreich.  
    So sieht der Controller aus:  
-   ![Controller Bild](https://github.com/Hjordans/Lego-Mindstorm-Project/blob/main/Controller.jpg)  
+   ![Controller Bild oben]([https://github.com/Hjordans/Lego-Mindstorm-Project/blob/main/Lego-Controller-oben.png "Bild vom Controller von oben")  
    Oben sind die Anschlüsse A, B, C und D und unten 1, 2, 3 und 4.
 
    ### Anschlüsse und ihre Funktionen
