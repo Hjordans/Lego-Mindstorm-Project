@@ -41,4 +41,5 @@
    Er hat dann nicht mehr genug Kraft, um aufzustehen.  
    
    **Achtung:** Bitte die Beine nicht manuell bewegen, weil die Chance besteht, dass es die Grenzwerte kaputt macht.  
+   
    Die Grenzwerte sind manuell festgelegte Werte, die fest sind und nicht Variable, daher kann es sein, dass er dadurch wieder hinfallen kann. 
